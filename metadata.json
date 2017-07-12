@@ -14,16 +14,8 @@
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution-text": "Flexi Digital",
   "attribution-url": "https://data.flexidigital.co.uk/",
-<<<<<<< HEAD
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us11.list-manage.com\",\"uuid\":\"9e6648557f84731796a4ac873\",\"lid\":\"2167da53bb\"}) })",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true
-}
-=======
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us11.list-manage.com\",\"uuid\":\"948d8c8db91c52a77a49fb3e3\",\"lid\":\"3416ffc728\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": true
 }
->>>>>>> bf0c1a6595c306c7fc6c8e8dcf330693ad87e4ac
